@@ -7,7 +7,7 @@
 // @description  Auto focus the search bar in YouTube.
 // @author       Inskipp
 // @copyright    2022+, HaroldPetersInskipp (https://github.com/HaroldPetersInskipp)
-// @license      MIT; https://github.com/HaroldPetersInskipp/YouTube-AFS/master/LICENSE
+// @license      MIT; https://github.com/HaroldPetersInskipp/YouTube-AFS/blob/main/LICENSE
 // @match        *://www.youtube.com/*
 // @icon         https://raw.githubusercontent.com/HaroldPetersInskipp/YouTube-AFS/main/icon.png
 // @grant        none
