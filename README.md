@@ -1,5 +1,11 @@
 # YouTube-AFS
-Userscript to auto focus the search bar in YouTube as soon as the page is opened. For use with Tampermonkey or Greasemonkey.
+Userscript to auto focus the search bar in YouTube as soon as the page is opened, so you can start typing your search query immediately.
+
+For use with Tampermonkey or Greasemonkey.
+
+Screenshot
+------------
+<img alt="screenshot-1" width="1024px" src="screenshot-1.png" />
 
 Installation
 ------------
