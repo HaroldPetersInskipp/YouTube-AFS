@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube - Auto Focus Search Bar
 // @namespace    https://github.com/HaroldPetersInskipp
-// @version      1.4.4
+// @version      1.4.5
 // @homepageURL  https://github.com/HaroldPetersInskipp/YouTube-AFS
 // @supportURL   https://github.com/HaroldPetersInskipp/YouTube-AFS/issues
 // @downloadURL  https://gist.githubusercontent.com/HaroldPetersInskipp/5129292f3750d99735c2a8b352a5651c/raw/youtube-afs.user.js
@@ -34,4 +34,3 @@
     const observer = new MutationObserver(focusSearch);
     observer.observe(document.body, { childList: true, subtree: true });
 })();
-// Just testing updating feature again (last time pls)
