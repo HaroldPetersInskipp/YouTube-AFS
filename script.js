@@ -1,14 +1,16 @@
 // ==UserScript==
 // @name         Youtube - Auto Focus Search Bar
 // @namespace    https://github.com/HaroldPetersInskipp
-// @version      1.2
+// @version      1.3
 // @homepageURL  https://github.com/HaroldPetersInskipp/YouTube-AFS
 // @supportURL   https://github.com/HaroldPetersInskipp/YouTube-AFS/issues
 // @description  Auto focus the search bar in YouTube.
 // @author       Inskipp
 // @copyright    2024+, HaroldPetersInskipp (https://github.com/HaroldPetersInskipp)
 // @license      MIT; https://github.com/HaroldPetersInskipp/YouTube-AFS/blob/main/LICENSE
-// @match        *://www.youtube.com/*
+// @match        *://www.youtube.com/
+// @match        *://www.youtube.com/feed/subscriptions
+// @match        *://www.youtube.com/feed/history
 // @grant        none
 // @icon         https://raw.githubusercontent.com/HaroldPetersInskipp/YouTube-AFS/main/icon.png
 // ==/UserScript==
